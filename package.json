@@ -1,0 +1,11 @@
+{
+  "name": "sequential-thinking-agent",
+  "version": "1.0.0",
+  "description": "A CLI tool that performs sequential reasoning based on user input.",
+  "main": "index.js",
+  "bin": {
+    "sequential-thinking-agent": "./index.js"
+  },
+  "author": "Kerri Gaither",
+  "license": "MIT"
+}
